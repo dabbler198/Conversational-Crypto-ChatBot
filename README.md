@@ -6,8 +6,8 @@ A clean, mobile-friendly web chat app that answers cryptocurrency queries using 
 
 ## 🚀 Features
 
-* Real-time price queries (e.g., “What’s ETH trading at?”)
-* Trending coins ("List today’s trending coins")
+* Real-time price queries (e.g., “What’s ETH trading at today?”)
+* Trending coins ("List today’s trending coins.")
 * Basic stats queries ("Provide brief description of ADA.")
 * 7-day price chart rendering ("Render a 7-day price chart of BNB.")
 * Track simple portfolio (e.g., “I have 2 ETH”) and live value
