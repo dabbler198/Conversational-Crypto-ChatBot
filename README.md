@@ -2,7 +2,7 @@
 
 A clean, mobile-friendly web chat app that answers cryptocurrency queries using the CryptoCompare API.
 
-![screenshot](https://dummyimage.com/1200x600/ccc/000\&text=Crypto+Chat+Preview)
+![screenshot](src/assets/chat_bot_demo.png)
 
 ## 🚀 Features
 
@@ -86,7 +86,7 @@ Visit [http://localhost:5173](http://localhost:5173)
 
 **License:** MIT
 
-**Author:** Sagar Gupta ([@yourhandle](https://github.com/dabbler198))
+**Author:** Sagar Gupta ([Github Profile](https://github.com/dabbler198))
 
 ---
 
